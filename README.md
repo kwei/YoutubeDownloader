@@ -16,4 +16,4 @@ v2.0 完成主要功能及主要UI元件
 1.ctrl+v 輸入自定義歌單  
 2.Click search button  
 3.Show the result in the listbox.  
-4.Then enter your output_path and click.  
+4.Then enter your output_path and click downloadbutton.  
