@@ -6,7 +6,6 @@ import pytube
 import time
 import random
 import sys
-import os
 from threading import current_thread
 
 
